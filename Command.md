@@ -300,5 +300,5 @@ BancoDeDados ..> InterfaceDeDados
  
 - Gamma, Erich, Richard Helm, Ralph Johnson, and John Vlissides. Design Patterns: Elements of Reusable object-Oriented Software. Addison-Wesley Professional, 1995.
 - Alexander Shvets. Mergulho nos Padrões de Projeto. Refactoring.Guru, 2021.
-- Otávio Miranda. Padrões de Projeto - Design Patterns (GoF). Disponível em: [Façade](https://github.com/luizomf/design-patterns-typescript/blob/master/src/structural/facade/diagramas/Fa%C3%A7ade.png). Acesso em 31 out. 2023.
+- Otávio Miranda. Padrões de Projeto - Design Patterns (GoF). Disponível em: [Command](https://github.com/luizomf/design-patterns-typescript/blob/master/src/structural/facade/diagramas/Fa%C3%A7ade.png). Acesso em 31 out. 2023.
 - Helder da Rocha. Padrões Design de com aplicações em Java. Curso J930: Design Patterns, 2003, 2005. [Padrões Design](http://www.argonavis.com.br/ementas/patterns-gof.html)
